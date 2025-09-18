@@ -1,1 +1,1 @@
-# vibecording-demo
+# vibecoding-demo
