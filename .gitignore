@@ -1,0 +1,83 @@
+# -----------------------------------------------------------------------------
+# Python
+# -----------------------------------------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+# Usually these files are created by a PyInstaller script
+*.spec
+
+
+# -----------------------------------------------------------------------------
+# Virtualenv
+# -----------------------------------------------------------------------------
+# Virtual environment directories like venv, env, .venv, etc.
+venv/
+env/
+.venv/
+ENV/
+.env/
+env.bak/
+venv.bak/
+
+# Environment variables file
+.env
+
+
+# -----------------------------------------------------------------------------
+# IDE / Editor specific files
+# -----------------------------------------------------------------------------
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+
+# -----------------------------------------------------------------------------
+# Jupyter Notebook
+# -----------------------------------------------------------------------------
+.ipynb_checkpoints
+
+
+# -----------------------------------------------------------------------------
+# Other
+# -----------------------------------------------------------------------------
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+
+# SQLite databases
+*.sqlite3
+*.db
